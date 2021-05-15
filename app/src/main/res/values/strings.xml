@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">testkotlin</string>
+    <string name="selected_item">Selected item:</string>
+
+    <string-array name="RecipeType">
+        <item>burger</item>
+        <item>cake</item>
+        <item>hummus</item>
+        <item>gnocchi</item>
+        <item>all</item>
+    </string-array>
+</resources>
