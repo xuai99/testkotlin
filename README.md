@@ -19,6 +19,6 @@ Sort by gnocchi
 
 Sort by burger
 
+<img src="https://user-images.githubusercontent.com/43243626/118363199-d3b56f80-b5c5-11eb-9bf7-8b5d6cfe75b4.png" alt="alt text" width="200" height="350"> <img src="https://user-images.githubusercontent.com/43243626/118363247-095a5880-b5c6-11eb-96fc-a35824de6890.png" alt="alt text" width="200" height="350">
 
-<img src="https://user-images.githubusercontent.com/43243626/118363199-d3b56f80-b5c5-11eb-9bf7-8b5d6cfe75b4.png" alt="alt text" width="200" height="350">
 
